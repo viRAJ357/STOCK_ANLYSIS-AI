@@ -1,0 +1,2 @@
+# STOCK_ANLYSIS-AI
+This repo implements the AI BASED STOCK ANALYSIS PROJECT
