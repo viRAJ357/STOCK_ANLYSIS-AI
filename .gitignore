@@ -5,3 +5,17 @@ venv/
 env/
 .venv/
 .ipynb_checkpoints/
+
+# Datasets
+*.csv
+
+# Temporary files
+err.txt
+out.txt
+ngrok.log
+flask.log
+serveo.log
+serveo_url.log
+
+# Model files (optional, but keeping stock_model.pkl as it's small enough and needed for app)
+# stock_model.pkl

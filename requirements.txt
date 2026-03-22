@@ -4,3 +4,6 @@ numpy
 scikit-learn
 flask
 twilio
+streamlit
+joblib
+pyTelegramBotAPI
