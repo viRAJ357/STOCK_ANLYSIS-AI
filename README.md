@@ -1,4 +1,4 @@
-# 📈 AI Stock Analysis & Predictor Bots
+# 📈 AI Stock Analysis & Predictor Bots TELEGRAM BOT DEPLOYMENT http://t.me/nikhil_stock_bot
 
 > [!NOTE] 
 > 📄 **[Click here to read the Detailed Project Report & Methodology](PROJECT_REPORT.md)**
