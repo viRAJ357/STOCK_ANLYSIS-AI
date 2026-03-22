@@ -1,5 +1,8 @@
 # 📈 AI Stock Analysis & Predictor Bots
 
+> [!NOTE] 
+> 📄 **[Click here to read the Detailed Project Report & Methodology](PROJECT_REPORT.md)**
+
 This repository implements a powerful AI-based Stock Market Analysis project. It features a trained machine learning model capable of analyzing historical stock data and technical indicators to predict short-term stock movements.
 
 The project also includes fully functional conversational bots for **Telegram**, **WhatsApp**, and **Instagram**! These bots serve as dedicated financial assistants, allowing users to check stock prices, get AI predictions, and receive detailed investment risk/reward calculations by simply sending a message.
